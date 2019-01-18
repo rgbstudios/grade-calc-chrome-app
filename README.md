@@ -14,9 +14,7 @@ https://chrome.google.com/webstore/detail/amomifflklnjfjcamncbnepiakdfnjca
 
 <img src="grade-calc-promo-files/promo/large-promo.png">
 
-For the website, go here: http://rgbstudios.org/grade-calc
-
-For the website repo, go here: https://github.com/rgbstudios/grade-calc
+For the website version, go [here](http://rgbstudios.org/grade-calc), and for its repo, go [here](https://github.com/rgbstudios/grade-calc)
 
 <img src="grade-calc-promo-files/screenshot1.png">
 
@@ -56,7 +54,7 @@ For the website repo, go here: https://github.com/rgbstudios/grade-calc
 
 ✅ The bottom of the page features a history log, so you can view all of the students' grades at once when you're done.
 
-<img src="img/graduation.svg" width="300px">
+<img src="grade-calc-promo-files/graduation.svg" width="300px">
 
 ### About
 
